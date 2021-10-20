@@ -3,7 +3,7 @@ Basic Types activity
 - Create 3 variables and set them up to the given instructions. Also, type check them with the typeof operator in the console.
 */
 //your code here
-let  myFirstName="Aravind"
+let  myFirstName="Ruban"
 let numberOfCities=5
 let havingFun="Yes"
 ///////////////////////////////////
